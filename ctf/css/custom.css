@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Proxima+Nova:wght@300;400;600;700&display=swap');
+
+.icon-green {
+    filter: invert(68%) sepia(87%) saturate(397%) hue-rotate(67deg) brightness(101%) contrast(98%);
+    fill: green;
+}
+
+.icon-yellow {
+    filter: invert(84%) sepia(82%) saturate(2901%) hue-rotate(325deg) brightness(97%) contrast(108%);
+    fill: yellow;
+}
+
+.icon-red {
+    filter: invert(47%) sepia(12%) saturate(3217%) hue-rotate(316deg) brightness(101%) contrast(106%);
+    fill: red;
+}
+
+.icon-blue {
+    filter: invert(71%) sepia(6%) saturate(4992%) hue-rotate(179deg) brightness(102%) contrast(102%);
+    fill: blue;
+}
+
+.icon-white {
+    filter: invert(100%) sepia(0%) saturate(12%) hue-rotate(297deg) brightness(105%) contrast(105%);
+}
+
